@@ -31,6 +31,11 @@
 * LeetCode
 * HackerRank
 * Codechef
+## 🧠 LeetCode Profile
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 ## Connect With Me
 
