@@ -34,7 +34,7 @@
 ## 🧠 LeetCode Profile
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Gunjan_Gupta20?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ## Connect With Me
